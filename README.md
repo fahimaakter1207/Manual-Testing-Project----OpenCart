@@ -5,9 +5,9 @@ Project Name- OpenCart (Frontend)
 Project link -  https://demo.opencart.com/             
 Description-  OpenCart is an online store management E-commerce system. I tested this application for functionality and usability.        
 
-(The 'Test Plan' & 'FRS' documents I collected from the SDET-QA website for my practice purposes)
+****(The 'Test Plan' & 'FRS' documents I collected from the SDET-QA website for my practice purposes)****
 
-Getting Started
+***Getting Started***                   
 To view the details of all the files, simply click on the 'OpenCart project' name file in the main section. 
 
 This project contains files are -
